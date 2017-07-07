@@ -1,8 +1,8 @@
 * h4xCOSCUP
 主要是放 conf 當天機器人的 code 跟其他 h4 COSCUP 議程資訊 
-[[https://quip.com/WndlAE7EWlqo][COSCUP 2017 社群議程 - H4 & TOSSUhttps://www.youtube.com/watch?v=ZzoC1ZeImD4G]]
-* bot  
-如果有弄出來的話，還缺以下功能。
-** TODO bot 命名
-** TODO 簽到功能
-** TODO 開放資料
+[[https://quip.com/WndlAE7EWlqo][COSCUP 2017 社群議程 - H4 & TOSSUG]]
+** bot  
+ 如果有弄出來的話，還缺以下功能。
+*** TODO bot 命名
+*** TODO 簽到功能
+*** TODO 開放資料
