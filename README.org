@@ -5,4 +5,8 @@
  如果有弄出來的話，還缺以下功能。
 *** TODO bot 命名
 *** TODO 簽到功能
+*** TODO 問卷 
+*** TODO 問答Q&A
+*** TODO 抽獎？
+*** TODO 連接 fossasia 
 *** TODO 開放資料
